@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "DM-ABC: Direction-Memory Artificial Bee Colony"
+authors:
+  - family-names: Banharnsakun
+    given-names: Anan
+    affiliation: "Computational Intelligence Research Laboratory (CIRLab), Faculty of Engineering at Sriracha, Kasetsart University"
+license: MIT
+repository-code: "https://github.com/ANAN-BHSK/DM-ABC"

@@ -1,0 +1,5 @@
+date: 2026-10-11T22:23:44
+python: 3.11.5  numpy: 2.4.6  scipy: 1.17.1  opfunu: 1.0.4
+os: Windows-10-10.0.26300-SP0  cpu_count: 16  workers: 16
+runs per (function, algorithm): 30
+dmabc_benchmark.py sha256[:16]: b55c03dc85c9eb3e
